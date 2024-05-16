@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-# Redirects from what the browser requests to what we serve
-/home                /
-=======
-/* /index.html 200
->>>>>>> Stashed changes
