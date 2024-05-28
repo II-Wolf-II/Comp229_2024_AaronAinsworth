@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7950905b.css",
-    "main.js": "/static/js/main.daecdc5d.js",
-    "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
-    "index.html": "/index.html",
-    "main.7950905b.css.map": "/static/css/main.7950905b.css.map",
-    "main.daecdc5d.js.map": "/static/js/main.daecdc5d.js.map",
-    "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
+    "main.css": "/II-Wolf-II/Comp229_2024_AaronAinsworth/static/css/main.7950905b.css",
+    "main.js": "/II-Wolf-II/Comp229_2024_AaronAinsworth/static/js/main.f3f47190.js",
+    "static/js/453.aac68abc.chunk.js": "/II-Wolf-II/Comp229_2024_AaronAinsworth/static/js/453.aac68abc.chunk.js",
+    "index.html": "/II-Wolf-II/Comp229_2024_AaronAinsworth/index.html",
+    "main.7950905b.css.map": "/II-Wolf-II/Comp229_2024_AaronAinsworth/static/css/main.7950905b.css.map",
+    "main.f3f47190.js.map": "/II-Wolf-II/Comp229_2024_AaronAinsworth/static/js/main.f3f47190.js.map",
+    "453.aac68abc.chunk.js.map": "/II-Wolf-II/Comp229_2024_AaronAinsworth/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7950905b.css",
-    "static/js/main.daecdc5d.js"
+    "static/js/main.f3f47190.js"
   ]
 }
