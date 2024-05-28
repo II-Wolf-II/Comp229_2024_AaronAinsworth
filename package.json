@@ -35,18 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "Assignment 1 Aaron Ainsworth",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/II-Wolf-II/Comp229_2024_AaronAinsworth.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/II-Wolf-II/Comp229_2024_AaronAinsworth/issues"
-  },
-  "homepage": "https://github.com/II-Wolf-II/Comp229_2024_AaronAinsworth#readme",
-  "devDependencies": {}
+  }
 }

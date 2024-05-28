@@ -20,7 +20,7 @@ const About = () => {
         <li>C++</li>
         <li>Python</li>
         </ol>
-          <a href="/public/resumes/resumeAA.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
+          <a href="/resumes/resumeAA.pdf" download="resume Aaron Ainsworth.pdf">Download Resume</a>
       </div>
   );
 }
