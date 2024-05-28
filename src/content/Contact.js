@@ -64,7 +64,7 @@ const Contact = () => {
 
 <div className="container">
     <div className="jumbotron">
-<form name='Form' method='POST'>
+<form name='Form' netlify>
     <label> Name:</label>
     <br></br>
     <input type="text" size="19" name="Contact-Name" id="name"  required></input>
